@@ -1,26 +1,3 @@
-.. image:: https://img.shields.io/pypi/v/zipp.svg
-   :target: https://pypi.org/project/zipp
-
-.. image:: https://img.shields.io/pypi/pyversions/zipp.svg
-
-.. image:: https://github.com/jaraco/zipp/actions/workflows/main.yml/badge.svg
-   :target: https://github.com/jaraco/zipp/actions?query=workflow%3A%22tests%22
-   :alt: tests
-
-.. image:: https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/astral-sh/ruff/main/assets/badge/v2.json
-    :target: https://github.com/astral-sh/ruff
-    :alt: Ruff
-
-.. image:: https://readthedocs.org/projects/zipp/badge/?version=latest
-..    :target: https://zipp.readthedocs.io/en/latest/?badge=latest
-
-.. image:: https://img.shields.io/badge/skeleton-2026-informational
-   :target: https://blog.jaraco.com/skeleton
-
-.. image:: https://tidelift.com/badges/package/pypi/zipp
-   :target: https://tidelift.com/subscription/pkg/pypi-zipp?utm_source=pypi-zipp&utm_medium=readme
-
-
 A pathlib-compatible Zipfile object wrapper. Official backport of the standard library
 `Path object <https://docs.python.org/3.8/library/zipfile.html#path-objects>`_.
 
